@@ -1,0 +1,5 @@
+{"event_type":"befriend", "id1": "1", "id2": "250", "timestamp":"2017-01-01 18:00:00"}
+{"event_type":"purchase", "timestamp":"2017-06-14 18:46:50", "id": "250", "amount": "6"}
+{"event_type":"purchase", "timestamp":"2017-06-14 18:46:50", "id": "250", "amount": "2"}
+{"event_type":"purchase", "timestamp":"2017-06-14 18:46:50", "id": "250", "amount": "3"}
+{"event_type":"purchase", "timestamp":"2017-06-14 18:46:50", "id": "250", "amount": "1"}

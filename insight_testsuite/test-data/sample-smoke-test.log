@@ -1,0 +1,4 @@
+{"D":"2", "T":"50"}
+{"event_type":"purchase", "timestamp":"2017-06-14 18:46:40", "id": "250", "amount": "56.69"}
+{"event_type":"befriend", "timestamp":"2017-06-14 18:46:40", "id1": "6037", "id2": "8071"}
+{"event_type":"unfriend", "timestamp":"2017-06-14 18:46:40", "id1": "4235", "id2": "922"}
